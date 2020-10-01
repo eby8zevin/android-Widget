@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="hello">Kelompok 6</string>
+    <string name="empty_view_text">Task WIDGET</string>
+
+    <string name="WM">Widget Music</string>
+    <string name="play_pause">play_pause</string>
+
+    <string name="Music">Music</string>
+    <string name="ahmad_abu_hasan">Ahmad Abu Hasan</string>
+    <string name="_117227007">117227007</string>
+    <string name="todo">TODO</string>
+    <string name="muhammad_amirul_fuad">Muhammad Amirul Fuad</string>
+    <string name="_117227027">117227027</string>
+</resources>
